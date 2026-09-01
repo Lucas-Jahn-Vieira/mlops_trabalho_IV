@@ -18,8 +18,6 @@ trabalho_IV/
 │   ├── metrics_utils.py           # matriz de confusão, precisão, recall, F-beta, AUC-ROC
 │   ├── threshold_analysis.py      # curva de custo e busca do threshold ótimo
 │   └── generate_report.py         # montagem do relatório em PDF
-├── prints/                        # gráficos gerados (matrizes de confusão, ROC, custo)
-└── Relatorio_Trabalho_IV_Metricas_Classificacao.pdf
 ```
 
 ## Como executar
